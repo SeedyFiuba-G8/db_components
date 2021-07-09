@@ -1,3 +1,4 @@
+const _ = require('lodash');
 const { snakeCase: toSnakeCase } = require('snake-case');
 const toCamelCase = require('camelcase');
 
